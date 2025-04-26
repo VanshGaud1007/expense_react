@@ -1,5 +1,5 @@
 // const host = "https://expense-tracker-app-knl1.onrender.com";
-const host = "https://expense-backend-owyi.onrender.com";
+const host = "https://expense-backend-udhy.vercel.app/";
 export const setAvatarAPI = `${host}/api/auth/setAvatar`;
 export const registerAPI = `${host}/api/auth/register`;
 export const loginAPI = `${host}/api/auth/login`;
